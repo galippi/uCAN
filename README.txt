@@ -16,4 +16,4 @@ Currently 3 CAN HWs are supported:
 
 But any driver is welcome.
 
-The project is coordinated by Istvan Baksa, Gabor Liptak and Laszlo Simon from Knorr-Bremse.
+The project is coordinated by Istvan Baksa, Gabor Liptak and Laszlo Simon.
